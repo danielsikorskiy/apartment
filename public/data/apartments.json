@@ -48,7 +48,32 @@
       "dateAdded": "2026-03-19T10:29:00+02:00",
       "dateUpdated": "2026-03-19T10:29:00+02:00",
       "addedBy": "agent"
+    },
+    {
+      "id": "c3d4e5f6-a7b8-9012-cdef-123456789012",
+      "price": 8100,
+      "rooms": 3,
+      "sizeM2": 75,
+      "floor": 1,
+      "address": "Tahon St, Tel Aviv",
+      "neighborhood": "Old North",
+      "lat": 32.0928,
+      "lng": 34.7778,
+      "sourceUrl": "https://wa.me/972542131929",
+      "status": "seeing",
+      "viewing": {
+        "date": "2026-03-19",
+        "time": "16:00",
+        "contactName": "Idan",
+        "contactPhone": "054-2131929",
+        "notes": "Agency. WhatsApp and specify which apartment."
+      },
+      "highlights": ["renovated", "bright", "spacious", "near beach", "huge living room", "new kitchen", "gas connection", "immediate entry"],
+      "description": "3 rooms 75 sqm, floor 1 no elevator. Bargain price! Quiet street near Nordau, Dizengoff and beach. Very spacious and bright. 2 spacious bedrooms + huge living room. New spacious kitchen with dining area. Washer and gas connection. Renovated bathroom and toilet. No shelter in building but public shelter nearby. Immediate entry!",
+      "dateAdded": "2026-03-19T10:30:00+02:00",
+      "dateUpdated": "2026-03-19T10:30:00+02:00",
+      "addedBy": "agent"
     }
   ],
-  "lastUpdated": "2026-03-19T10:29:00+02:00"
+  "lastUpdated": "2026-03-19T10:30:00+02:00"
 }
