@@ -24,7 +24,31 @@
       "dateAdded": "2026-03-19T10:28:00+02:00",
       "dateUpdated": "2026-03-19T10:28:00+02:00",
       "addedBy": "agent"
+    },
+    {
+      "id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "price": 10000,
+      "rooms": 3,
+      "sizeM2": 70,
+      "floor": 3,
+      "address": "Near Basel Complex, Old North, Tel Aviv",
+      "neighborhood": "Old North",
+      "lat": 32.0918,
+      "lng": 34.7758,
+      "sourceUrl": "https://facebook.com/marketplace",
+      "status": "seeing",
+      "viewing": {
+        "date": "2026-03-20",
+        "time": "11:00",
+        "contactName": "Dor Bassa",
+        "notes": "Facebook Marketplace listing. Message on FB."
+      },
+      "highlights": ["elevator", "shelter", "high ceilings", "renovated", "guest toilet", "washer/dryer space"],
+      "description": "3 rooms 70 sqm, floor 3 with elevator. High-level renovation - all new plumbing and windows. Bathroom + shower with washer/dryer space. Guest toilet. Bedroom closets. High ceilings. Electric oven and stove. Vaad 270/month, Arnona ~320/month.",
+      "dateAdded": "2026-03-19T10:29:00+02:00",
+      "dateUpdated": "2026-03-19T10:29:00+02:00",
+      "addedBy": "agent"
     }
   ],
-  "lastUpdated": "2026-03-19T10:28:00+02:00"
+  "lastUpdated": "2026-03-19T10:29:00+02:00"
 }
