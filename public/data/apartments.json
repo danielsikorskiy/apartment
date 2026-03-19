@@ -19,11 +19,19 @@
         "contactPhone": "050-5324494",
         "notes": "Meril Capital agency. Prefer WhatsApp."
       },
-      "highlights": ["sun balcony", "parking", "renovated", "quiet", "bright", "dishwasher"],
+      "highlights": [
+        "sun balcony",
+        "parking",
+        "renovated",
+        "quiet",
+        "bright",
+        "dishwasher"
+      ],
       "description": "3 rooms ~65 sqm, floor 1 no elevator. Private parking (fits 2 cars). Sun balcony. Renovated, spacious, bright and quiet. 1 bathroom, 1 toilet. Solar water heater. Includes: fridge, oven, stove, dishwasher. Vaad ~170/month, Arnona ~750/2 months. Entry 1/4/2026. Suitable for couple+, long term.",
       "dateAdded": "2026-03-19T10:28:00+02:00",
-      "dateUpdated": "2026-03-19T10:28:00+02:00",
-      "addedBy": "agent"
+      "dateUpdated": "2026-03-19T10:36:00+02:00",
+      "addedBy": "agent",
+      "imageUrl": "/images/mandelshtam.jpg"
     },
     {
       "id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
@@ -44,7 +52,14 @@
         "contactName": "Dor Bassa",
         "notes": "Facebook Marketplace listing. Message on FB."
       },
-      "highlights": ["elevator", "shelter", "high ceilings", "renovated", "guest toilet", "washer/dryer space"],
+      "highlights": [
+        "elevator",
+        "shelter",
+        "high ceilings",
+        "renovated",
+        "guest toilet",
+        "washer/dryer space"
+      ],
       "description": "3 rooms 70 sqm, floor 3 with elevator. High-level renovation - all new plumbing and windows. Bathroom + shower with washer/dryer space. Guest toilet. Bedroom closets. High ceilings. Electric oven and stove. Vaad 270/month, Arnona ~320/month.",
       "dateAdded": "2026-03-19T10:29:00+02:00",
       "dateUpdated": "2026-03-19T10:33:00+02:00",
@@ -70,7 +85,16 @@
         "contactPhone": "054-2131929",
         "notes": "Agency. WhatsApp and specify which apartment."
       },
-      "highlights": ["renovated", "bright", "spacious", "near beach", "huge living room", "new kitchen", "gas connection", "immediate entry"],
+      "highlights": [
+        "renovated",
+        "bright",
+        "spacious",
+        "near beach",
+        "huge living room",
+        "new kitchen",
+        "gas connection",
+        "immediate entry"
+      ],
       "description": "3 rooms 75 sqm, floor 1 no elevator. Bargain price! Quiet street near Nordau, Dizengoff and beach. Very spacious and bright. 2 spacious bedrooms + huge living room. New spacious kitchen with dining area. Washer and gas connection. Renovated bathroom and toilet. No shelter in building but public shelter nearby. Immediate entry!",
       "dateAdded": "2026-03-19T10:30:00+02:00",
       "dateUpdated": "2026-03-19T10:33:00+02:00",
@@ -89,12 +113,21 @@
       "sourceUrl": "https://wa.me/972557241066",
       "imageUrl": "/images/yehoshua-bin-nun.jpg",
       "status": "interesting",
-      "highlights": ["elevator", "shelter", "renovated", "closets", "bright", "airy", "immediate entry", "near beach"],
+      "highlights": [
+        "elevator",
+        "shelter",
+        "renovated",
+        "closets",
+        "bright",
+        "airy",
+        "immediate entry",
+        "near beach"
+      ],
       "description": "3 rooms ~70 sqm, floor 3 with elevator. Rare apartment on Yehoshua Bin Nun - one of the best and quietest areas. Full renovation - everything new including windows. Closets in apartment. Bright, pleasant and airy. Shelter in building. Immediate entry. Suitable for long term. Arnona ~640/2 months, Vaad 270/month.",
       "dateAdded": "2026-03-19T10:32:00+02:00",
       "dateUpdated": "2026-03-19T10:33:00+02:00",
       "addedBy": "agent"
     }
   ],
-  "lastUpdated": "2026-03-19T10:33:00+02:00"
+  "lastUpdated": "2026-03-19T10:36:00+02:00"
 }
