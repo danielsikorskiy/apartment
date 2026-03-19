@@ -1,0 +1,61 @@
+:root {
+  /* Backgrounds */
+  --bg-primary: #FAF7F2;
+  --bg-secondary: #F3EDE4;
+  --bg-tertiary: #EBE3D7;
+  --bg-overlay: rgba(44, 40, 37, 0.4);
+
+  /* Text */
+  --text-primary: #2C2825;
+  --text-secondary: #6B6560;
+  --text-tertiary: #9B9490;
+  --text-inverse: #FAF7F2;
+
+  /* Status */
+  --status-interesting: #D4A574;
+  --status-interesting-bg: #D4A57418;
+  --status-not-interesting: #B5B0A8;
+  --status-not-interesting-bg: #B5B0A818;
+  --status-ask-to-see: #C47D5E;
+  --status-ask-to-see-bg: #C47D5E18;
+  --status-seeing: #7BA77B;
+  --status-seeing-bg: #7BA77B18;
+
+  /* Accent */
+  --accent: #C47D5E;
+  --accent-hover: #A8654A;
+  --accent-light: #C47D5E1A;
+
+  /* Borders */
+  --border-light: #EBE3D7;
+  --border-medium: #D9D0C4;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 2px rgba(44, 40, 37, 0.06);
+  --shadow-md: 0 4px 12px rgba(44, 40, 37, 0.08);
+  --shadow-lg: 0 8px 24px rgba(44, 40, 37, 0.12);
+
+  /* Radius */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-full: 9999px;
+
+  /* Typography */
+  --font-display: 'DM Serif Display', Georgia, serif;
+  --font-body: 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+
+  /* Spacing */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 24px;
+  --space-8: 32px;
+  --space-10: 40px;
+  --space-12: 48px;
+
+  /* Tab bar */
+  --tab-bar-height: 72px;
+}
