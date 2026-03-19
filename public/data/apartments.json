@@ -73,7 +73,25 @@
       "dateAdded": "2026-03-19T10:30:00+02:00",
       "dateUpdated": "2026-03-19T10:30:00+02:00",
       "addedBy": "agent"
+    },
+    {
+      "id": "d4e5f6a7-b8c9-0123-def0-234567890123",
+      "price": 10000,
+      "rooms": 3,
+      "sizeM2": 70,
+      "floor": 3,
+      "address": "Yehoshua Bin Nun St, Tel Aviv",
+      "neighborhood": "Old North",
+      "lat": 32.0910,
+      "lng": 34.7710,
+      "sourceUrl": "https://wa.me/972557241066",
+      "status": "interesting",
+      "highlights": ["elevator", "shelter", "renovated", "closets", "bright", "airy", "immediate entry", "near beach"],
+      "description": "3 rooms ~70 sqm, floor 3 with elevator. Rare apartment on Yehoshua Bin Nun - one of the best and quietest areas. Full renovation - everything new including windows. Closets in apartment. Bright, pleasant and airy. Shelter in building. Immediate entry. Suitable for long term. Arnona ~640/2 months, Vaad 270/month.",
+      "dateAdded": "2026-03-19T10:32:00+02:00",
+      "dateUpdated": "2026-03-19T10:32:00+02:00",
+      "addedBy": "agent"
     }
   ],
-  "lastUpdated": "2026-03-19T10:30:00+02:00"
+  "lastUpdated": "2026-03-19T10:32:00+02:00"
 }
